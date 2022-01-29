@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/AlissonSantosDF/teste-ebac-ui#readme",
   "devDependencies": {
-    "cypress": "^9.1.0"
+    "cypress": "^9.3.1"
   },
   "dependencies": {
     "faker": "^5.5.3"

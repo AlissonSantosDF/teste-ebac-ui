@@ -31,7 +31,7 @@ context('Funcinonalidade Login', () =>{
     cy.get('.page-title').should('contain', 'Minha conta')
 
    })
-   it.only('Deve fazr login com sucesso - Usando  fixture', () =>{
+   it('Deve fazr login com sucesso - Usando  fixture', () =>{
        cy.fixture('perfil').then(dados =>{
         cy.get('#username').type(dados.usuario)
         cy.get('#password').type(dados.senha, {log:false})
