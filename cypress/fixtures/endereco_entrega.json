@@ -1,0 +1,38 @@
+[
+    {
+        "nome":"Hugo",
+        "sobrenome": "Souza",
+        "empresa": "Facebook",
+        "endereco1": "Av Afonso Pena",
+        "endereco2": "Av Juscelino Kubitschek",
+        "pais": "Brasil",
+        "cidade": "Belo Horizonte",
+        "estado": "Minas Gerais",
+        "cep": "03000299"
+        
+     },
+     {
+        "nome":"Paulo",
+        "sobrenome": "Souza",
+        "empresa": "Amazon",
+        "endereco1": "Av Afonso Pena",
+        "endereco2": "Av Juscelino Kubitschek",
+        "pais": "Brasil",
+        "cidade": "Belo Horizonte",
+        "estado": "Minas Gerais",
+        "cep": "03000292"
+        
+     },
+     {
+        "nome":"Daniel",
+        "sobrenome": "Souza",
+        "empresa": "Correios",
+        "endereco1": "Av Afonso Pena",
+        "endereco2": "Av Juscelino Kubitschek",
+        "pais": "Brasil",
+        "cidade": "Belo Horizonte",
+        "estado": "Minas Gerais",
+        "cep": "03000291"
+        
+     }
+]
